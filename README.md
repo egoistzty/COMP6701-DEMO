@@ -1,3 +1,3 @@
 # COMP6701-DEMO
 
-This is a repo includes some implementation of algorithms presented in the Advanced Algorithm Course (COMP6071) for personal study only.
+This repo includes some implementation of algorithms mentioned in the Advanced Algorithm Course (COMP6701) and is merely for personal study.
